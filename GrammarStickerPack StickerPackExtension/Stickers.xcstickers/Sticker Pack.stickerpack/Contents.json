@@ -1,9 +1,158 @@
 {
   "info" : {
-    "version" : 1,
-    "author" : "xcode"
+    "author" : "xcode",
+    "version" : 1
   },
   "properties" : {
     "grid-size" : "regular"
-  }
+  },
+  "stickers" : [
+    {
+      "filename" : "a lot.sticker"
+    },
+    {
+      "filename" : "allot.sticker"
+    },
+    {
+      "filename" : "alot.sticker"
+    },
+    {
+      "filename" : "affect.sticker"
+    },
+    {
+      "filename" : "among.sticker"
+    },
+    {
+      "filename" : "assure.sticker"
+    },
+    {
+      "filename" : "between.sticker"
+    },
+    {
+      "filename" : "complement.sticker"
+    },
+    {
+      "filename" : "compliment.sticker"
+    },
+    {
+      "filename" : "effect.sticker"
+    },
+    {
+      "filename" : "e.g..sticker"
+    },
+    {
+      "filename" : "ensure.sticker"
+    },
+    {
+      "filename" : "farther.sticker"
+    },
+    {
+      "filename" : "fewer.sticker"
+    },
+    {
+      "filename" : "further.sticker"
+    },
+    {
+      "filename" : "have.sticker"
+    },
+    {
+      "filename" : "i.sticker"
+    },
+    {
+      "filename" : "i.e..sticker"
+    },
+    {
+      "filename" : "insure.sticker"
+    },
+    {
+      "filename" : "in to.sticker"
+    },
+    {
+      "filename" : "into.sticker"
+    },
+    {
+      "filename" : "it's.sticker"
+    },
+    {
+      "filename" : "its.sticker"
+    },
+    {
+      "filename" : "less.sticker"
+    },
+    {
+      "filename" : "loose.sticker"
+    },
+    {
+      "filename" : "lose.sticker"
+    },
+    {
+      "filename" : "me.sticker"
+    },
+    {
+      "filename" : "of.sticker"
+    },
+    {
+      "filename" : "peak.sticker"
+    },
+    {
+      "filename" : "peek.sticker"
+    },
+    {
+      "filename" : "pique.sticker"
+    },
+    {
+      "filename" : "Their.sticker"
+    },
+    {
+      "filename" : "than.sticker"
+    },
+    {
+      "filename" : "then.sticker"
+    },
+    {
+      "filename" : "there.sticker"
+    },
+    {
+      "filename" : "they're.sticker"
+    },
+    {
+      "filename" : "to.sticker"
+    },
+    {
+      "filename" : "too.sticker"
+    },
+    {
+      "filename" : "who.sticker"
+    },
+    {
+      "filename" : "who's.sticker"
+    },
+    {
+      "filename" : "whose.sticker"
+    },
+    {
+      "filename" : "whom.sticker"
+    },
+    {
+      "filename" : "your.sticker"
+    },
+    {
+      "filename" : "you're.sticker"
+    },
+    {
+      "filename" : "..sticker"
+    },
+    {
+      "filename" : "?.sticker"
+    },
+    {
+      "filename" : ";.sticker"
+    },
+    {
+      "filename" : ",.sticker"
+    },
+    {
+      "filename" : ":.sticker"
+    }
+  ]
 }
