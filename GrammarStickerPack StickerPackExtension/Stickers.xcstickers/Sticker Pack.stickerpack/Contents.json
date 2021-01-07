@@ -140,19 +140,19 @@
       "filename" : "you're.sticker"
     },
     {
-      "filename" : "..sticker"
+      "filename" : ";.sticker"
+    },
+    {
+      "filename" : ":.sticker"
     },
     {
       "filename" : "?.sticker"
     },
     {
-      "filename" : ";.sticker"
-    },
-    {
       "filename" : ",.sticker"
     },
     {
-      "filename" : ":.sticker"
+      "filename" : "..sticker"
     }
   ]
 }
